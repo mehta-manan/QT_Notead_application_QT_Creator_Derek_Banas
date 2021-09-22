@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>C:/Users/my/Downloads/diskette.png</file>
+        <file>C:/Users/my/Downloads/paste.png</file>
+        <file>C:/Users/my/Downloads/folder.png</file>
+        <file>C:/Users/my/Downloads/pen.png</file>
+        <file>C:/Users/my/Downloads/scissors.png</file>
+        <file>C:/Users/my/Downloads/archives.png</file>
+    </qresource>
+</RCC>
